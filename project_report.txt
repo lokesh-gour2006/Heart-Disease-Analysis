@@ -1,0 +1,16 @@
+PROJECT REPORT: HEART DISEASE ANALYSIS
+
+1. PROBLEM STATEMENT
+The objective of this project is to analyze heart disease data to identify significant health risk factors and trends.
+
+2. DATA PREPROCESSING & CLEANING
+The data was collected, cleaned, and processed to handle missing values and prepare it for accurate visualization.
+
+3. DATA VISUALIZATION (TABLEAU)
+Multiple sheets, stories, and an interactive dashboard were created using Tableau Public to visually interpret key health metrics.
+
+4. WEB INTEGRATION (FLASK)
+A python-based Flask web application was developed. The web UI serves as a deployment frontend where the interactive Tableau dashboard is successfully embedded using the Tableau Embed JavaScript code block.
+
+5. CONCLUSION
+The application runs successfully on a local Flask
